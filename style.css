@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 h1 {
@@ -189,7 +189,7 @@ h2 {
     bottom: 0%;
 }
 
-.footer-title{
+.footer-title {
     color: #FF5959;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
@@ -205,3 +205,34 @@ h2 {
 }
 
 
+
+
+.form {
+    text-align: center;
+}
+
+.form-description {
+    color: #707070;
+    padding-bottom: 40px;
+    font-size: 23px;
+}
+
+.input-field {
+    padding: 70px 30px;
+    background-color: #FFF4D6;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+
+
+.img {
+    display: flex;
+}
+
+.img img {
+width: 25%;
+}
