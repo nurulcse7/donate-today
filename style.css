@@ -229,10 +229,27 @@ h2 {
 
 
 
-.img {
-    display: flex;
+.discover{
+    text-align: center;
 }
 
-.img img {
-width: 25%;
+.discover-description {
+    color: #707070;
+    font-size: 23px;
+    padding-left: 20%;
+    padding-right: 20%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.image-gallery {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-bottom: 25px;
+}
+
+.image-gallery img {
+    width: 30%;
 }
